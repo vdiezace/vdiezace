@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Where you can find me 🌍:
-[<img src="https://raw.githubusercontent.com/vdiezace/vdiezace/master/socials/linkedin.png" height="40em" align="center" alt="Follow vdiezace on LinkedIn" title="Follow vdiezace on LinkedIn"/>](https://linkedin.com/in/victoria-y-díez-acereda)
