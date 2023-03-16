@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on a PhD of Telecommunications Engineering.
 - 🌱 I’m currently learning **MSc of FullStack Dev from UNIR**.
+- 👨‍💻 All of my projects are available at [https://github.com/vdiezace](https://github.com/vdiezace)
 - 📫 How to reach me **victoriadiezacereda@gmail.com**.
 
 <h2 align="left">Skills:</h2>
