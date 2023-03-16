@@ -1,7 +1,7 @@
 <h1 align="left">Hi there !👋, I'm Victoria Díez Acereda </h1>
 
 - 🔭 I’m currently working on a PhD of Telecommunications Engineering.
-- 🌱 I’m currently learning **MSc of FullStack from UNIR**.
+- 🌱 I’m currently learning **MSc of FullStack Dev from UNIR**.
 - 📫 How to reach me **victoriadiezacereda@gmail.com**.
 
 <h2 align="left">Skills:</h2>
