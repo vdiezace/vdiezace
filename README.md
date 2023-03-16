@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Victoria Díez Acereda,
+
+🔭 I’m currently working in a PhD of Telecommunications.
+
 
 <!--
 **vdiezace/vdiezace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Where you can find me 🌍:
+[<img src="https://raw.githubusercontent.com/vdiezace/vdiezace/master/socials/linkedin.png" height="40em" align="center" alt="Follow vdiezace on LinkedIn" title="Follow vdiezace on LinkedIn"/>](https://linkedin.com/in/victoria-y-díez-acereda)
