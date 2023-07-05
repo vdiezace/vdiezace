@@ -1,6 +1,6 @@
 <h1 align="left">Hi there !👋, I'm Victoria Díez Acereda </h1>
 
-<h3>Jr. Full Stack Developer</h3>
+<h2>Jr. Full Stack Developer</h2>
 
 - 🔭 I’m currently working on a PhD of Telecommunications Engineering.
 - 👨‍💻 All of my projects are available at [https://github.com/vdiezace](https://github.com/vdiezace)
